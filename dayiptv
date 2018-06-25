@@ -1,4 +1,7 @@
 #EXTM3U
+
+#GERMAN CHANNELS
+
 #EXTINF:-1,DE: ZDF HD
 http://iptv.freecamtv.com:8000/live/959595/959595/688.ts
 #EXTINF:-1,DE: ZDF NEO
@@ -1521,6 +1524,9 @@ http://clientportal.link:80/live/Petko/123456/19677.ts
 http://clientportal.link:80/live/Petko/123456/19658.ts
 #EXTINF:-1,Sony TV HD DE
 http://clientportal.link:80/live/Petko/123456/3447.ts
+
+#US CHANNELS
+
 #EXTINF:-1,WWE US
 http://clientportal.link:80/live/Petko/123456/16572.ts
 #EXTINF:-1,Cinemax US
@@ -2248,6 +2254,9 @@ http://mypanel.tv:8080/live/tm/tm2017/32382.ts
 http://mypanel.tv:8080/live/tm/tm2017/32381.ts
 #EXTINF:-1,NESN HD US
 http://mypanel.tv:8080/live/tm/tm2017/34415.ts
+
+#CANADIAN CHANNELS
+
 #EXTINF:-1,A & E HD CA
 http://mypanel.tv:8080/live/tm/tm2017/37012.ts
 #EXTINF:-1,A&E CA
@@ -2830,6 +2839,9 @@ http://mypanel.tv:8080/live/tm/tm2017/17669.ts
 http://mypanel.tv:8080/live/tm/tm2017/17667.ts
 #EXTINF:-1,beIN Sports HD CA
 http://mypanel.tv:8080/live/tm/tm2017/12747.ts
+
+#UK CHANNELS
+
 #EXTINF:-1,SKY SPORT MAIN EVENT
 http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
 #EXTINF:-1,SKY SPORTS CRICKET
@@ -4053,6 +4065,9 @@ http://landiptv.live:8080/live/ricardo/ricardo/75136.ts
 http://landiptv.live:8080/live/ricardo/ricardo/75137.ts
 #EXTINF:-1,US: HBO East HD
 http://landiptv.live:8080/live/ricardo/ricardo/75881.ts
+
+#SPORT CHANNELS
+
 #EXTINF:-1,Beinsport max1 FHD world cup
 http://37.187.28.32:7474/live/freesafibx74cxw/Gwfjkn8IEN/1932.ts
 #EXTINF:-1,Beinsport max2 FHD world cup
