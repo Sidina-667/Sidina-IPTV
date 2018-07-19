@@ -1,0 +1,672 @@
+http://ip.akiptv.biz:8000/get.php?username=0102&password=1611.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:57:47     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=teksed121&password=0410.ye&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:58:20     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw2118&password=2004AV.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 14:57:13     Expires: 02/08/2018 15:05:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw9144&password=1909.kuR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 14:59:12     Expires: 03/08/2018 15:07:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw9441&password=23bb09.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 15:00:05     Expires: 02/08/2018 15:08:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7741&password=1508&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 15:01:04     Expires: 02/08/2018 15:09:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw9147&password=914108.tr&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 15:01:31     Expires: 02/08/2018 15:09:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw9152&password=9152.ts&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 15:02:08     Expires: 02/08/2018 15:10:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2142&password=0201.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:51:00     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=8931&password=1111.tr&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:51:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=demircisenol&password=e7JsSlukh0&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:52:18     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=a0002&password=04112016.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:52:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7856&password=1308.af&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:53:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=karacep1&password=3010.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:53:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=amigo1&password=0109.ka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:53:43     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=aypamud&password=2010.ay&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:54:07     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0100&password=25.10.ma&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:54:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bim.uf1&password=TGdtUGbLx5&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:55:16     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0733&password=2504&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:55:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0096&password=2010&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:55:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=yurmes.1&password=3008.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:56:02     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=izor&password=1510.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:56:20     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2130&password=1511.beya&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:44:44     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bursalikamil&password=3OkAyT21Nq&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:45:12     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ozden2&password=0411.gon&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 06:17:57     Expires: 01/09/2018 06:26:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=1234&password=4321&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:46:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ereny3&password=gTuCu3Gn6x&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:46:39     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=iptv10403112017-01&password=03112017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:46:59     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=3734.mT&password=0211.2017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:48:42     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=b1:7e:dikozgur&password=TyC35F6MgB&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:48:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ramco&password=0111.hay&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:49:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6652&password=0111.US&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:49:22     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=iptv10130102017-01&password=30102017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:49:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil25.yeT&password=0211.SUp&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:49:53     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil24.azER&password=0111.YAk&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:50:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil23.yiL&password=0311.ACu&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:50:34     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil22.gaYR&password=0211.De&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:50:50     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil21.HA&password=0111.Ka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:51:07     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=b7:b9:civata&password=R2Vu9FLi6A&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:29:40     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=erenkk2&password=f4l3CJDiCT&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:29:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=erenkk&password=IQXWHxqGW6&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:29:54     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=iptv10128102017-01&password=28102017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:30:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6637&password=2910.eR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:30:26     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=smh261017&password=261017smh&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:30:47     Expires: 01/08/2018 08:01:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=onr2510&password=251017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:31:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=4883&password=2510.met&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:31:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6425&password=2510.redL&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:31:41     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6612&password=2410.12aY&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:31:51     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9145&password=2510.hak&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:32:02     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil20.kA&password=2810.B&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:32:16     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil19&password=241017.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:32:36     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil18.&password=bA27102017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:32:51     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil17De&password=2510.14a&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:33:03     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil16.az&password=2410.dA&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:33:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil15.k&password=2310.b&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:33:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren10.dR&password=zZxntVaOKa&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:33:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren9&password=MUx9dEYzlq&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:34:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7717&password=2710.edrk&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:34:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2744&password=2610.kara&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:36:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=05:24:seroev&password=RmXQ1u5TIO&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:37:12     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=68:ee:can&password=JJ807c25pI&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:37:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil14.azS&password=2610.oNra&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:37:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil13.Ma&password=2810.aR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:37:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil12.ku&password=2710.baK&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:38:05     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren7&password=B5GurxGC6g&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:38:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren6&password=qYsXjnzSgm&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:38:41     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9439&password=3010.bur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:38:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw2120&password=2010.kurtog&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:39:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=374000&password=21102017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 13:10:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=iptv09821102017-01&password=21102017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:39:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9469&password=2510.lev&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:39:43     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren5&password=svjzGpUpzb&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:39:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6429&password=2510.kur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:40:18     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0115&password=2010.burdur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:40:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=MHhoca&password=OSNCFQmpXq&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:40:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=kutahyaturanbey&password=t8DOoMuaT0&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:41:03     Expires: 01/08/2018 08:01:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6259&password=2010.tav&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:41:38     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren4&password=9sagb25sYm&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:41:50     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7867&password=2010.atik&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:42:22     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=cahitbey&password=19102017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:56:01     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sharex0810&password=1810.m&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:42:34     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6573&password=1810.trcihan&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:42:47     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=1577&password=1810.ugur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:43:01     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=yalcinabi&password=1810.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:43:19     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren3&password=OUWbWzlNHn&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:43:33     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6647&password=1810.2017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:43:49     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=hacii&password=2703&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:44:03     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil10gel&password=1710.ter&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:44:18     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil9.pat&password=1810.AbF&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:44:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil8.kum&password=1907.DO&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:44:45     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil6kale.&password=1710.ca&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:44:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5209&password=1610.buR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:45:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eren1&password=1510.tM&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:45:56     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=4435&password=1510.Ba&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:46:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil5ne&password=110118&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:46:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil4LE&password=1410.gi&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:46:39     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bil3ka&password=1510.KA&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:47:09     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ishakusta.&password=JtTGZzoYHw&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:47:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bilgin2&password=1210.bil.c&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:47:39     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bilgin1&password=1210.ka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:47:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=kara2000&password=1110.hu&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:48:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5141&password=1110.bigle&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:48:26     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6118&password=1110.ser&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:48:42     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=4437&password=1010.baL&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:48:56     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=zcn.tv&password=den.51117&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:49:13     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=tavsanliis.&password=1710.tav&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:49:25     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5214&password=0410.tav&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:49:38     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5252&password=0309.buR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:49:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5212&password=0310&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:50:06     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bancey2&password=3009.Ce&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:50:20     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=4453&password=3009.kaR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:42:17     Expires: 01/08/2018 07:50:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eskfb&password=1907&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:51:49     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=usincep&password=DfzLQqoEL5&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:50:36     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=candarliandro&password=jDSg9sfk8l&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:50:50     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=moNstar.&password=3UxqfVDEMw&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:51:02     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=karpoint&password=ODuro4cmDg&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:52:36     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2309ttt&password=230917&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:53:06     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=semihlgtv&password=3c:cd:93:d3:5d:65&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 09:05:51     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=uzerev&password=2509.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:53:20     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=mahzey.1212&password=21.09.2017.bt&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:53:35     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2743&password=2509.Vey&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:53:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2780&password=2509.DE.g&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:54:07     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2761&password=2509.ey.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:54:19     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2750&password=2509.tekt&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:54:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2752&password=2009.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:54:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=drahmet.2&password=15092017.es&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:42:35     Expires: 01/08/2018 07:50:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=izsuonurark&password=15092017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 09:02:01     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ozm3&password=20.09.edr&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:55:20     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ozm2&password=2017.20&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:55:38     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=33563&password=1909.ce&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:55:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=33561&password=1809.gu&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:56:08     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=33564&password=1609.h&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:56:25     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=33562&password=1509.g&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:56:39     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=benim.yeni&password=benim&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:56:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=emrahban&password=1509.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:57:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=koymemet&password=JxkigArVwc&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:57:30     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=cey2000&password=0509.ce&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:57:54     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=irfan.1&password=akr.almn&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:58:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=gknkcm&password=baba1&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:58:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=4502&password=0209.naZ&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:58:45     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7639&password=0109.ah&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:59:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ahmet26&password=201808bt&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:59:40     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=konyasamsung&password=konya103042&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 18:59:53     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=4504&password=3008.Be&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:00:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=emtcumhur&password=26082017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 09:01:36     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=8938&password=2508.REy&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:00:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7677&password=2508.kaR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:00:45     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7681&password=2508.reY&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:00:59     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=aliuf&password=cinar&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:01:13     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5815&password=2008.cey&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:01:41     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=buketinesi&password=10:08:c1:1c:44:b5&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 09:01:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw201011&password=2010.nis&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:02:13     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=dogan&password=19.08.2017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Disabled    Created: 01/07/2018 19:02:29     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=rid4k1&password=1908.Go&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:02:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=havranavcilar&password=2008.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:03:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=gonmur1&password=1809.g&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:03:20     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=a0:6f:aa:9c:2b:18&password=17082017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:49:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7877&password=1608.emR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:04:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=hasokendu&password=13PBkvoS9m&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:05:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7666&password=1608.ka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:06:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7673&password=1708.duk&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:06:16     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5809&password=1608.seR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:52:03     Expires: 01/08/2018 08:00:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5810&password=1608.Be&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:06:33     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=dursun.gs&password=170817&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:06:49     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ercan.oy&password=16.08.2017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:07:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5535&password=XjUZ1ukMFc&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:07:16     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0812.cep&password=mOsCZuXW5w&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:07:29     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ifomes1&password=1508.mes&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:07:56     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=5814&password=1508.naz&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:08:08     Expires: 01/08/2018 08:01:00    Active Connections: 1     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9733&password=1508.alm&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:08:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=eray.11&password=aykac.14.08&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:08:35     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Tuborg1&password=Tuborg14&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:08:53     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Gkn01&password=Gkn0001&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:10:05     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7683&password=1308.kur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:10:30     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6082&password=1308.Ak&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:10:42     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6081&password=1208.ra&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:10:54     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7855&password=1108cey.ba&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:11:26     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7671&password=1108.cey&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:11:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9982&password=1108.emo&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:12:03     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=mkfb&password=09.08.17es&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:42:55     Expires: 01/08/2018 07:51:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7670&password=1008.ka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:12:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7685&password=0908.ing&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:12:59     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7679&password=0608.re&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:13:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7655&password=0308.sero&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:43:32     Expires: 01/08/2018 07:51:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7641&password=0408.ro&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:44:08     Expires: 01/08/2018 07:52:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7653&password=0308.sR&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:14:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=isme&password=0208.is&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:14:30     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7686&password=0208.bel&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:14:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6956&password=0208.sem&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:43:50     Expires: 01/08/2018 07:52:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=73:3c&password=27.07.xa&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:16:01     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ec:4a&password=2707.izuf&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:16:15     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7732&password=3008.ra&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:16:30     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7659&password=2707.ezak&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:16:56     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7657&password=2607.ri&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:17:30     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2093&password=2507c.se&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:17:44     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=gezer&password=123&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:17:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7660os&password=1507.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:18:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7658.&password=1507kom&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:18:29     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=kurbar1&password=1507.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:18:43     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=3741.&password=1207bur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:18:56     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7872.&password=1007.u&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:19:15     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=teksel&password=10072017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:19:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ing20001&password=2006.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:19:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=atik1&password=2006&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:20:03     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=esmah3&password=16.06.17es&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:20:18     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2242&password=2009.tk&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:35:40     Expires: 25/09/2018 07:43:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9107.&password=12.06.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:20:35     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=7861.&password=10.06&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:20:50     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0816&password=1005.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:21:02     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ingmay1&password=0105.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:21:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=emin.1&password=2604.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:21:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=aki-12.3&password=Ag7Pzl8Hxo&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:22:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=emin.&password=2504.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:22:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=karagozcep&password=cep.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:23:00     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=3724.&password=15.04&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:23:15     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=cumhurkara&password=NQwNOcSLUe&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:23:31     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=osmkoc&password=65smZy5jDI&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:23:45     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=74:9c:met&password=m7cNKCW4N7&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:24:00     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Smart&password=Smart.3103&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:24:12     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Muratttt&password=Elektronik&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:24:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=inghasma2&password=2503.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:24:43     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=muhtar&password=2003.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:33:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=inghas031&password=1703.ha&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:34:05     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=svralkan&password=GXr7Buk0i7&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:34:29     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=3744&password=1503.d&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:34:41     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ozbirabla&password=akya&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:35:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bilica&password=2509.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:35:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=yasarabi&password=1003.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:35:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=yasarabiev&password=IjUPbCqFxt&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:36:11     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=gumisa&password=1003&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:36:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=erenalper&password=Mh8o2YPoEv&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:36:43     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=tayfun.hoca&password=esk.btl&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:37:00     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2111&password=1511.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:37:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Sedat1234&password=Sedat12345&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:37:27     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Erdemm&password=Erdemm1234&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:37:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=dr.altug&password=24.02.2017.es&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:37:59     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=inghasn&password=2502.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:38:16     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=fujisat&password=k8xFon2Vu4&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:38:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=sw5664&password=1508maHM&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:38:54     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=Yapici59&password=Yapici5959&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:39:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=1155&password=1108.be&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:39:45     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2063&password=01.02ing&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:40:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=surer&password=nZKkbMdIS1&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:40:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=97:achas&password=kMtRF0uwEq&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:40:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2044&password=2201.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:41:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ozgurvlc2&password=xrTKYYrlir&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:41:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=serhated&password=01012017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:51:20     Expires: 01/08/2018 07:59:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=m.ve1&password=03.01&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:41:44     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6c:23:kuis&password=d1gelbERLQ&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:42:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=abc1&password=31.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:42:26     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=nazar9&password=25.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:42:39     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=8939&password=25.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:42:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=A0020&password=2312.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:43:08     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=nazar8&password=23.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:43:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0071&password=25.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:43:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=tekbul&password=20.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:43:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=korsamed&password=2012.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:44:05     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0822&password=1612.kur&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:44:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=yeni.mht.01&password=06.12.16es&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:44:29     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=denzey.maho2&password=23.10.maes&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:44:41     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=izgurke&password=10.12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:44:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=bancey50:2f&password=1LzcrWlmso&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:45:15     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ermanev&password=9uCuXq7a69&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:45:32     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=cakir.es1&password=27.Nis.17&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:45:47     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9462&password=2811&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:45:59     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=kaleenginab1&password=2ZTOKz19yZ&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:46:12     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=suha.ay&password=155813&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:46:23     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=gonenlg&password=2511&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:47:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=a0015&password=2011&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:47:34     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=balaban&password=2411..&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:47:48     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=a0004&password=2508.gu&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:49:15     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=metinabi2&password=enig.ma.2&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 02/07/2018 15:11:08     Expires: 02/08/2018 15:19:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=cemilhoca&password=19.11.16&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:55:47     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=alm52&password=pxbf64XORE&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:49:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=alm50&password=AOLF6Y28l3&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:50:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ahmetabikendi&password=7PG5lHj0Kc&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 19:50:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=muz&password=saka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:01:37     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=akivlc1&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:02:12     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=den.1&password=zey.2&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:02:42     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=mabi5&password=d4:63:fe:dc:1f:96&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:02:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=osmann&password=ozdemir&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:03:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0dbf&password=YdhP5266ZB&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:05:16     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=testcum&password=test12&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 07/07/2018 07:34:03     Expires: 07/01/2019 08:34:03    Active Connections: 0     Maximum Connections: 1     Formats: "ts"
+http://ip.akiptv.biz:8000/get.php?username=mabiark4&password=tribun&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:05:39     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=denm23&password=den23&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:05:54     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=muzafferabi&password=134EfDmGYt&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:06:40     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=servet2&password=Nt4DEWYdxt&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:06:56     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=uydutv&password=tvuydu&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:07:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2302&password=230218&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:07:34     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=simge&password=11.10.2017&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 08:49:35     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=1282&password=01032018&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:16:51     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=31121&password=2002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:17:07     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ugurbaba539&password=143210&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:17:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=erenkarsiyaka&password=50:56:bf:79:6e:54&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:17:40     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=muhammed63&password=17022018.tek&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:17:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ser109y&password=17022018&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:18:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ifo23&password=1402&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:18:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=basrimudur&password=o0QiwSSg9O&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:19:28     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=semihark&password=fc:8f:90:81:41:75&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:19:08     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6604&password=10022018&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:19:44     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6614&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:19:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36261&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:20:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=30155&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:20:34     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36277&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:20:51     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36281&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:21:26     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36282&password=1003&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:21:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36263&password=1002&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:22:01     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36273&password=0502&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:22:15     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=36278&password=0502&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:22:31     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=tuncay&password=umuttdag&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:22:42     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6466&password=0202&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:23:09     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=dedeler123&password=01022018tek&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:23:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9467&password=3101.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:23:38     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ifo22&password=3001&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:23:52     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ifo21&password=3001&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:24:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=omurbey&password=V3poW6bA2a&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 15:24:17     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=0805&password=28012018&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:35:14     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ifo20&password=2701&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:35:31     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ifo19&password=2601&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:35:45     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=2034&password=1511.met&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:35:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ercan1&password=22012018me&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:37:55     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=mehmetabiev&password=yedek&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 07:40:38     Expires: 01/08/2018 07:48:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=salihabi&password=ZpMNpuQ1jy&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:39:42     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ceykendi&password=1512.&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:39:57     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=azer43&password=131217.tek&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:40:24     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=ramazan&password=101217&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:40:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=yunuscep&password=6feb01qGtM&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:41:09     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=6428&password=2310.edrk&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:41:22     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=karasunex&password=0112.ka&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:41:51     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=erencep&password=Zzt7ZteWWg&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:42:04     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=orgememet&password=yiB8G9SjQC&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:42:30     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=60:4f&password=hTRLS0YWT2&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:42:46     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=osm17&password=171117&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:42:58     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=hsn17&password=171117&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:43:10     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=aytacttt&password=161117&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:43:26     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
+http://ip.akiptv.biz:8000/get.php?username=9133&password=1511.ufuk&type=m3u_plus
+Real Url: cem1.ddns.net:8000     Status: Active    Created: 01/07/2018 16:44:08     Expires: 01/08/2018 08:01:00    Active Connections: 0     Maximum Connections: 1     Formats: "m3u8","ts","rtmp"
