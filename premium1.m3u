@@ -46,7 +46,342 @@ http://playlist.onlybest.tv/en/channel/6f23faad7f164af7dfa82d7808a17ec4/436/inde
 http://playlist.onlybest.tv/en/channel/6f23faad7f164af7dfa82d7808a17ec4/715/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/discovery-hd-deutschland.jpg",Discovery HD Deutschland
 http://playlist.onlybest.tv/en/channel/6f23faad7f164af7dfa82d7808a17ec4/738/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/disney-cinemagic-deutschland-hd.jpg",Disney Channel Deutschland HD#EXTM3U
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/disney-cinemagic-deutschland-hd.jpg",Disney Channel Deutschland HD#EXTM3U#EXTM3U
+#EXTINF:-1,1-2-3.TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/690/index.m3u8
+#EXTINF:-1,1-2-3.TV HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/450/index.m3u8
+#EXTINF:-1,Anixe
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/691/index.m3u8
+#EXTINF:-1,Anixe HD Serie
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/440/index.m3u8
+#EXTINF:-1,ARD Alpha
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/696/index.m3u8
+#EXTINF:-1,ARD Alpha
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/697/index.m3u8
+#EXTINF:-1,ARTE Deutsch HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/777/index.m3u8
+#EXTINF:-1,Arte FranÃ§ais HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/805/index.m3u8
+#EXTINF:-1,Astro TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/770/index.m3u8
+#EXTINF:-1,BB-MV Lokal-TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/651/index.m3u8
+#EXTINF:-1,Bibel TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/437/index.m3u8
+#EXTINF:-1,Bloomberg TV Europe
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/434/index.m3u8
+#EXTINF:-1,BTV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/932/index.m3u8
+#EXTINF:-1,Channel 21
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/655/index.m3u8
+#EXTINF:-1,Channel 21 HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/466/index.m3u8
+#EXTINF:-1,Channel 21 Shop
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/427/index.m3u8
+#EXTINF:-1,Comedy Central Ã–sterreich
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/648/index.m3u8
+#EXTINF:-1,Das Erste HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/775/index.m3u8
+#EXTINF:-1,Das Erste HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/776/index.m3u8
+#EXTINF:-1,Deluxe Music
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/439/index.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/451/index.m3u8
+#EXTINF:-1,Deutsches Musik Fernsehen
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/436/index.m3u8
+#EXTINF:-1,Discovery Channel Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/715/index.m3u8
+#EXTINF:-1,Discovery HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/738/index.m3u8
+#EXTINF:-1,Disney Channel Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/449/index.m3u8
+#EXTINF:-1,Disney Cinemagic Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/745/index.m3u8
+#EXTINF:-1,Disney Cinemagic Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/730/index.m3u8
+#EXTINF:-1,Disney Junior HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/708/index.m3u8
+#EXTINF:-1,DMAX Austria
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/652/index.m3u8
+#EXTINF:-1,DMAX Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/768/index.m3u8
+#EXTINF:-1,DMAX HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/646/index.m3u8
+#EXTINF:-1,eoTV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/925/index.m3u8
+#EXTINF:-1,Equi 8 TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/771/index.m3u8
+#EXTINF:-1,EuroNews German
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/802/index.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/471/index.m3u8
+#EXTINF:-1,Eurosport1 - Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/682/index.m3u8
+#EXTINF:-1,EWTN - Katholisches Fernsehen
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/686/index.m3u8
+#EXTINF:-1,Family TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/458/index.m3u8
+#EXTINF:-1,Fox Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/479/index.m3u8
+#EXTINF:-1,Genius Plus TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/444/index.m3u8
+#EXTINF:-1,Heimatkanal
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/744/index.m3u8
+#EXTINF:-1,History Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/698/index.m3u8
+#EXTINF:-1,Home Shopping Europe Deutsch
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/764/index.m3u8
+#EXTINF:-1,HR Fernsehen HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/787/index.m3u8
+#EXTINF:-1,HR Fernsehen HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/788/index.m3u8
+#EXTINF:-1,HSE 24 Extra
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/432/index.m3u8
+#EXTINF:-1,HSE 24 Extra HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/448/index.m3u8
+#EXTINF:-1,HSE 24 HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/442/index.m3u8
+#EXTINF:-1,HSE 24 Trend
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/769/index.m3u8
+#EXTINF:-1,JML Direct Shop
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/653/index.m3u8
+#EXTINF:-1,Jukebox
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/477/index.m3u8
+#EXTINF:-1,Juwelo TV HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/821/index.m3u8
+#EXTINF:-1,Kabel eins Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/758/index.m3u8
+#EXTINF:-1,Kabel eins Doku
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/762/index.m3u8
+#EXTINF:-1,Kabel eins HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/642/index.m3u8
+#EXTINF:-1,Kinowelt TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/726/index.m3u8
+#EXTINF:-1,L-TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/931/index.m3u8
+#EXTINF:-1,MDR Fernsehen Sachsen HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/785/index.m3u8
+#EXTINF:-1,MDR Fernsehen Sachsen HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/786/index.m3u8
+#EXTINF:-1,Media Shop
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/772/index.m3u8
+#EXTINF:-1,MediaShop
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/657/index.m3u8
+#EXTINF:-1,Mein TV Shop
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/773/index.m3u8
+#EXTINF:-1,MTV HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/465/index.m3u8
+#EXTINF:-1,N 24
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/759/index.m3u8
+#EXTINF:-1,N 24 HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/447/index.m3u8
+#EXTINF:-1,N-TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/664/index.m3u8
+#EXTINF:-1,N-TV HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/456/index.m3u8
+#EXTINF:-1,N24 Austria
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/647/index.m3u8
+#EXTINF:-1,N24 Doku
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/685/index.m3u8
+#EXTINF:-1,Nat Geo Wild Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/742/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/735/index.m3u8
+#EXTINF:-1,National Geographic Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/713/index.m3u8
+#EXTINF:-1,National Geographic Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/731/index.m3u8
+#EXTINF:-1,Nick Austria
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/649/index.m3u8
+#EXTINF:-1,Nickelodeon Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/430/index.m3u8
+#EXTINF:-1,Nickelodeon Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/446/index.m3u8
+#EXTINF:-1,Pearl TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/654/index.m3u8
+#EXTINF:-1,Pearl TV HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/822/index.m3u8
+#EXTINF:-1,ProSieben Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/757/index.m3u8
+#EXTINF:-1,ProSieben HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/641/index.m3u8
+#EXTINF:-1,ProSieben MAXX
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/761/index.m3u8
+#EXTINF:-1,ProSieben MAXX HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/644/index.m3u8
+#EXTINF:-1,QVC Beauty & Style
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/688/index.m3u8
+#EXTINF:-1,QVC Beauty & Style HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/467/index.m3u8
+#EXTINF:-1,QVC Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/441/index.m3u8
+#EXTINF:-1,QVC Plus
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/428/index.m3u8
+#EXTINF:-1,QVC Plus Deutschland HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/452/index.m3u8
+#EXTINF:-1,RBB Brandenburg HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/783/index.m3u8
+#EXTINF:-1,RBB Brandenburg HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/784/index.m3u8
+#EXTINF:-1,Regio TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/766/index.m3u8
+#EXTINF:-1,Romance TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/461/index.m3u8
+#EXTINF:-1,RTL 2 Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/659/index.m3u8
+#EXTINF:-1,RTL 2 HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/457/index.m3u8
+#EXTINF:-1,RTL 2 Ã–sterreich
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/678/index.m3u8
+#EXTINF:-1,RTL Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/658/index.m3u8
+#EXTINF:-1,RTL HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/454/index.m3u8
+#EXTINF:-1,RTL Nitro
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/662/index.m3u8
+#EXTINF:-1,RTL Nitro HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/469/index.m3u8
+#EXTINF:-1,RTL Ã–sterreich
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/676/index.m3u8
+#EXTINF:-1,RTL Schweiz
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/681/index.m3u8
+#EXTINF:-1,RTLplus Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/663/index.m3u8
+#EXTINF:-1,Sat.1 Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/756/index.m3u8
+#EXTINF:-1,Sat.1 Gold
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/760/index.m3u8
+#EXTINF:-1,Sat.1 HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/483/index.m3u8
+#EXTINF:-1,Schlager TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/912/index.m3u8
+#EXTINF:-1,ServusTV Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/438/index.m3u8
+#EXTINF:-1,Sixx Austria
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/928/index.m3u8
+#EXTINF:-1,Sixx Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/693/index.m3u8
+#EXTINF:-1,Sixx HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/643/index.m3u8
+#EXTINF:-1,Sky Action HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/700/index.m3u8
+#EXTINF:-1,Sky Arts HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/476/index.m3u8
+#EXTINF:-1,Sky Atlantic Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/723/index.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/729/index.m3u8
+#EXTINF:-1,SKY SPORT 1
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/724/index.m3u8
+#EXTINF:-1,Sky Cinema +1 HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/705/index.m3u8
+#EXTINF:-1,Sky Cinema +24 HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/706/index.m3u8
+#EXTINF:-1,Sky Cinema Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/712/index.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/727/index.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/710/index.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/739/index.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/749/index.m3u8
+#EXTINF:-1,Sky Emotion Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/717/index.m3u8
+#EXTINF:-1,Sky Krimi
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/718/index.m3u8
+#EXTINF:-1,Sky Nostalgie Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/728/index.m3u8
+#EXTINF:-1,Sky Select
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/716/index.m3u8
+#EXTINF:-1,Sky Sport 2 HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/733/index.m3u8
+#EXTINF:-1,Sky Sport Austria
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/746/index.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/475/index.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/725/index.m3u8
+#EXTINF:-1,Sky Sport News Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/460/index.m3u8
+#EXTINF:-1,Sonnenklar TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/763/index.m3u8
+#EXTINF:-1,Sonnenklar TV HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/820/index.m3u8
+#EXTINF:-1,Sophia TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/443/index.m3u8
+#EXTINF:-1,Sparhandy TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/689/index.m3u8
+#EXTINF:-1,Sparhandy TV 2
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/765/index.m3u8
+#EXTINF:-1,Sparhandy TV 2 HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/938/index.m3u8
+#EXTINF:-1,Spiegel Geschichte
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/753/index.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/480/index.m3u8
+#EXTINF:-1,Sport 1 Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/774/index.m3u8
+#EXTINF:-1,Sport 1 HD Germany
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/453/index.m3u8
+#EXTINF:-1,SR Fernsehen
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/694/index.m3u8
+#EXTINF:-1,SR Fernsehen
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/695/index.m3u8
+#EXTINF:-1,SÃ¼dwest Fernsehen Baden-WÃ¼rttemberg HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/779/index.m3u8
+#EXTINF:-1,SÃ¼dwest Fernsehen Baden-WÃ¼rttemberg HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/780/index.m3u8
+#EXTINF:-1,Sudwest Fernsehen Rheinland-Pfalz HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/781/index.m3u8
+#EXTINF:-1,Sudwest Fernsehen Rheinland-Pfalz HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/782/index.m3u8
+#EXTINF:-1,Super RTL Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/660/index.m3u8
+#EXTINF:-1,Super RTL HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/468/index.m3u8
+#EXTINF:-1,Super RTL Ã–sterreich
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/679/index.m3u8
+#EXTINF:-1,Syfy Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/747/index.m3u8
+#EXTINF:-1,Tele 5
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/767/index.m3u8
+#EXTINF:-1,Tele 5 HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/645/index.m3u8
+#EXTINF:-1,TLC Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/692/index.m3u8
+#EXTINF:-1,TLC HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/462/index.m3u8
+#EXTINF:-1,TNT Film
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/740/index.m3u8
+#EXTINF:-1,TNT Serie
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/751/index.m3u8
+#EXTINF:-1,TNT Serie HD
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/702/index.m3u8
+#EXTINF:-1,Toggo Plus
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/665/index.m3u8
+#EXTINF:-1,Visit-X TV
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/929/index.m3u8
+#EXTINF:-1,Viva
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/431/index.m3u8
+#EXTINF:-1,Vox Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/661/index.m3u8
+#EXTINF:-1,Vox HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/455/index.m3u8
+#EXTINF:-1,Vox Ã–sterreich
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/677/index.m3u8
+#EXTINF:-1,Vox Schweiz
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/680/index.m3u8
+#EXTINF:-1,Welt der Wunder
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/930/index.m3u8
+#EXTINF:-1,Zee One Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/459/index.m3u8
+#EXTINF:-1,Zee One HD Deutschland
+http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/463/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/mtv-live-hd.jpg",MTV Live HD
 http://playlist.onlybest.tv/en/channel/de8ce5090a19f271d0c24d1d688b22fd/27/index.m3u8
 #EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/nickelodeon-hd.jpg",Nickelodeon HD
